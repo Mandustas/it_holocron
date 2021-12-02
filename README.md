@@ -1,2 +1,2 @@
-# Linux Holocron
-https://github.com/Mandustas/linux_holocron/wiki
+# IT Holocron
+https://github.com/Mandustas/it_holocron/wiki
